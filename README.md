@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yarenkoksal&label=Profile%20views&color=0e75b6&style=flat" alt="yarenkoksal" /> </p>
 
-- 🔭 I’m currently working on **COVID-19 Data Analysis Project**
 
 - 🌱 I’m currently learning **PowerBI and DAX**
 
